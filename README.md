@@ -45,6 +45,5 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Naukri](https://img.shields.io/badge/Naukri-Profile-orange?style=flat)](https://www.naukri.com/mnjuser/profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankireddy-chaitanya-1111aa24a)
 [![GitHub](https://img.shields.io/badge/GitHub-chaitanya407-181717?style=flat&logo=github)](https://github.com/chaitanya407)

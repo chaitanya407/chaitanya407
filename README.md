@@ -1,7 +1,7 @@
 # Hi, I'm Chaitanya 👋
 
 🎓 B.Tech ECE Graduate | 🚀 Aspiring DevOps & AWS Cloud Engineer  
-📍 Andhra Pradesh, India | 📧 ankiredychaitanya37@gmail.com
+📍 Andhra Pradesh, India | 📧 ankireddychaitanya37@gmail.com
 
 ---
 

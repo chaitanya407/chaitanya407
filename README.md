@@ -1,6 +1,6 @@
 # Hi, I'm Chaitanya 👋
 
-🎓 B.Tech ECE Graduate | 🚀 Aspiring DevOps & AWS Cloud Engineer  
+🎓 B.Tech ECE Graduate | 🚀 DevOps & AWS Cloud Engineer | Terraform | Docker | Jenkins | CI/CD | ECE 2024 | Immediate Joiner
 📍 Andhra Pradesh, India | 📧 ankireddychaitanya37@gmail.com
 
 ---
